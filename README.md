@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @byferdu and I’m a student.
 - 👀 I’m interested in AI, but I don't think I have enough knowledge in AI
-- 🌱 I’m currently learning Android development, but I'm going to be a full-stack developer.
+- 🌱 I’m currently learning Android development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
